@@ -12,8 +12,8 @@ Steps to get the script going:
 2 - Download this entire repo as a zip file\
 3 - (optional) run the 0_checkLineCount.py to check how many lines are in the tsv file\
 4 - Run the 1_cleanup.py file to remove:\
-    - The first line from the file (junk text)\
-    - Any address that start with '3' (script address) or a 'b' (Segwit and Taproot address)\
-    - The tab and balance\
+ - The first line from the file (junk text)\
+ - Any address that start with '3' (script address) or a 'b' (Segwit and Taproot address)\
+ - The tab and balance\
 5 - Run the 2_main.py\
 6 - Wait trillions of years or find a quantum computer with 2^256 qubits\
