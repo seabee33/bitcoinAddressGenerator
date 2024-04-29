@@ -15,5 +15,6 @@ Steps to get the script going:
  - The first line from the file (junk text)
  - Any address that start with '3' (script address) or a 'b' (Segwit and Taproot address)
  - The tab and balance
+
 5 - Run the 2_main.py\
 6 - Wait trillions of years or find a quantum computer with 2^256 qubits\
