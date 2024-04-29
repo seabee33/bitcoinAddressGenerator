@@ -17,4 +17,4 @@ Steps to get the script going:
  - The tab and balance
 
 5 - Run the 2_main.py\
-6 - Wait trillions of years or find a quantum computer with 2^256 qubits\
+6 - Wait trillions of years or find a quantum computer with many many qubits
