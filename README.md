@@ -8,7 +8,7 @@ This script uses the 'bitcoin' python library from Vitalik Buterin to:
 
 Steps to get the script going:
 
-1 - Download the bitcoin address tsv file from the torrent file OR https://blockchair.com/dumps OR http://addresses.loyce.club/ \
+1 - Download the bitcoin address tsv file from https://blockchair.com/dumps OR http://addresses.loyce.club/ \
 2 - Download this entire repo as a zip file\
 3 - (optional) run the 0_checkLineCount.py to check how many lines are in the tsv file\
 4 - Run the 1_cleanup.py file to remove:
