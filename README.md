@@ -18,3 +18,5 @@ Steps to get the script going:
 
 5 - Run the 2_main.py\
 6 - Wait trillions of years or find a quantum computer with many many qubits
+
+# Important! If you would like to improve or chance this code please edit the file in the (advanced) folder!
